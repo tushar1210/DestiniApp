@@ -1,7 +1,7 @@
  
 # Story Outline
 
-__Story1__ : ** Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to
+__Story1__ : Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to
 hitchhike. A rusty pickup truck rumbles to a stop next to your. A man with a wide brimmed hat and soulless eyes opens the
 passenger door for you and says: "Need a ride, boy?". <br /> <br />
   __Answer1a__: I'll hop in. Thanks for the help!<br />
